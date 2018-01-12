@@ -15,3 +15,6 @@ Chen, Asiain, Figueras, & Torra 2/1997)
 
 http://adsabs.harvard.edu/abs/1999A&A...341..427A ("Detection of moving groups among early type stars", 	
 Asiain, Figueras, Torra & Chen 1/1999)
+
+http://adsabs.harvard.edu/abs/2017A%26A...608A..73K ("Kinematic structures of the solar neighbourhood revealed by Gaia DR1/TGAS and RAVE", 
+Kushniruk, Schirmer, & Bensby 12/2017)
