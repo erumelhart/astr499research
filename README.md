@@ -20,3 +20,5 @@ http://adsabs.harvard.edu/abs/2017A%26A...608A..73K ("Kinematic structures of th
 Kushniruk, Schirmer, & Bensby 12/2017)
 
 https://media.readthedocs.org/pdf/astroquery/latest/astroquery.pdf (astroquery documentation)
+
+https://www.gaia.ac.uk/data/gaia-data-release-1/adql-cookbook (astroquery cookbook)
