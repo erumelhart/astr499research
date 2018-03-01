@@ -19,6 +19,9 @@ Asiain, Figueras, Torra & Chen 1/1999)
 http://adsabs.harvard.edu/abs/2017A%26A...608A..73K ("Kinematic structures of the solar neighbourhood revealed by Gaia DR1/TGAS and RAVE", 
 Kushniruk, Schirmer, & Bensby 12/2017)
 
+http://adsabs.harvard.edu/abs/2017AJ....153..257O ("Comoving Stars in Gaia DR1: An Abundance of Very Wide Separation Comoving Pairs", 	
+Oh, Price-Whelan, Hogg, Morton & Spergel 6/2017
+
 https://media.readthedocs.org/pdf/astroquery/latest/astroquery.pdf (astroquery documentation)
 
 https://www.gaia.ac.uk/data/gaia-data-release-1/adql-cookbook (astroquery cookbook)
