@@ -1,0 +1,5 @@
+SELECT
+    `ID_TGAS_source`, `RA_TGAS`, `DE_TGAS`, `pmRA_TGAS`, `pmDE_TGAS`,                   `parallax_TGAS`, `phot_g_mean_mag_TGAS`, `HRV` 
+FROM `RAVEPUB_DR5`.`RAVE_DR5`
+WHERE
+    `parallax_TGAS` >= 3.333333 AND `phot_g_mean_mag_TGAS` < 11 AND                     `parallax_error_TGAS` < 0.314159
