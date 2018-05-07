@@ -1,5 +1,5 @@
 # astr499research
-WI '18 ASTR 499 Research
+WI '18 - SP '18 ASTR 499 Research
 
 
 Quick Links:
@@ -25,3 +25,9 @@ Oh, Price-Whelan, Hogg, Morton & Spergel 6/2017
 https://media.readthedocs.org/pdf/astroquery/latest/astroquery.pdf (astroquery documentation)
 
 https://www.gaia.ac.uk/data/gaia-data-release-1/adql-cookbook (astroquery cookbook)
+
+http://iopscience.iop.org/article/10.1088/0004-637X/700/2/1794/pdf ("THE VELOCITY DISTRIBUTION OF NEARBY STARS FROM HIPPARCOS DATA. I. THE SIGNIFICANCE OF THE MOVING GROUPS" Bovy & Hogg, 07/2009)
+
+http://iopscience.iop.org/article/10.1088/0004-637X/717/2/617/pdf ("THE VELOCITY DISTRIBUTION OF NEARBY STARS FROM HIPPARCOS DATA. II. THE NATURE OF THE LOW-VELOCITY MOVING GROUPS", Bovy & Hogg, 06/2010)
+
+http://iopscience.iop.org/article/10.1088/0004-637X/716/1/1/pdf ("The Milky Way Tomography with SDSS. III. Stellar Kinematics", Bond et Al., 06/2010
